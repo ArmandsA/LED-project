@@ -1,0 +1,4 @@
+|main
+clock => ~NO_FANOUT~
+
+
